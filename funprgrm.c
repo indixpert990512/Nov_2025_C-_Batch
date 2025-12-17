@@ -28,5 +28,6 @@ int main()
       divsion();
     }
     
-    return 0;
+
+return 0;
 }
